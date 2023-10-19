@@ -1,0 +1,6 @@
+-Button: Center: (2, 1), Height: 5, Width: 5, Text: New game
+-Button: Center: (2, 2), Height: 5, Width: 5, Text: Options
+-Button: Center: (2, 3), Height: 5, Width: 5, Text: Exit
+Rectangle: Center: (3, 5), Height: 10, Width: 20
+
+Menu: Center: (6, 3), Height: 50, Width: 25, Level: 2
