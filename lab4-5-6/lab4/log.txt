@@ -1,0 +1,86 @@
+17.10.2023 18:47:53, Info: Координаты не могут превышать 999
+17.10.2023 18:47:53, Info: Координаты не могут превышать 999
+17.10.2023 18:48:34, Info: Координаты не могут превышать 999
+17.10.2023 18:48:34, Info: Координаты не могут превышать 999
+17.10.2023 18:48:43, Info: Координаты не могут превышать 999
+17.10.2023 18:48:43, Info: Координаты не могут превышать 999
+17.10.2023 18:49:00, Info: Координаты не могут превышать 999
+17.10.2023 18:49:00, Info: Координаты не могут превышать 999
+17.10.2023 18:49:12, Info: Координаты не могут превышать 999
+17.10.2023 18:49:12, Info: Координаты не могут превышать 999
+17.10.2023 18:49:50, Info: Координаты не могут превышать 999
+17.10.2023 18:49:50, Info: Координаты не могут превышать 999
+17.10.2023 18:50:57, Info: Координаты не могут превышать 999
+17.10.2023 18:50:57, Info: Координаты не могут превышать 999
+17.10.2023 18:51:14, Info: Координаты не могут превышать 999
+17.10.2023 18:51:15, Info: Координаты не могут превышать 999
+17.10.2023 18:53:06, Info: Координаты не могут превышать 999
+17.10.2023 18:53:06, Info: Координаты не могут превышать 999
+17.10.2023 18:53:26, Info: Координаты не могут превышать 999
+17.10.2023 18:53:26, Info: Координаты не могут превышать 999
+17.10.2023 18:53:57, Info: Координаты не могут превышать 999
+17.10.2023 18:53:57, Info: Координаты не могут превышать 999
+17.10.2023 18:59:50, Info: Координаты не могут превышать 999
+17.10.2023 18:59:50, Info: Координаты не могут превышать 999
+17.10.2023 19:00:10, Info: Координаты не могут превышать 999
+17.10.2023 19:00:38, Info: Координаты не могут превышать 999
+17.10.2023 19:01:09, Info: Координаты не могут превышать 999
+17.10.2023 19:01:23, Info: Координаты не могут превышать 999
+17.10.2023 19:01:23, Info: Координаты не могут превышать 999
+17.10.2023 19:01:43, Info: Координаты не могут превышать 999
+17.10.2023 19:01:43, Info: Координаты не могут превышать 999
+17.10.2023 19:02:12, Info: Координаты не могут превышать 999
+17.10.2023 19:02:12, Info: Длина описания стиля не должна превышать 15 символов
+17.10.2023 19:04:50, Info: Координаты не могут превышать 999
+17.10.2023 19:04:50, Info: Длина описания стиля не должна превышать 15 символов
+17.10.2023 19:06:22, Info: Coords can't exceed 999
+17.10.2023 19:06:22, Info: Длина описания стиля не должна превышать 15 символов
+17.10.2023 19:07:00, Info: Coords can't exceed 999
+17.10.2023 19:07:00, Info: Lenght of style can't exceed 15
+17.10.2023 19:07:19, Info: Coords can't exceed 999
+17.10.2023 19:07:19, Info: Lenght of style can't exceed 15
+17.10.2023 19:08:26, Info: Coords can't exceed 999
+17.10.2023 19:08:26, Info: Lenght of style can't exceed 15
+17.10.2023 19:08:26, Info: Lenght of window title can't exceed 15
+17.10.2023 22:18:24, Info: Coords can't exceed 999
+17.10.2023 22:18:24, Info: Lenght of style can't exceed 15
+17.10.2023 22:18:24, Info: Lenght of window title can't exceed 15
+17.10.2023 22:22:02, Info: Coords can't exceed 999
+17.10.2023 22:22:02, Info: Lenght of style can't exceed 15
+17.10.2023 22:22:02, Info: Lenght of window title can't exceed 15
+17.10.2023 22:25:57, Info: Coords can't exceed 999
+17.10.2023 22:25:57, Info: Lenght of style can't exceed 15
+17.10.2023 22:25:57, Info: Lenght of window title can't exceed 15
+17.10.2023 22:41:52, Info: Coords can't exceed 999
+17.10.2023 22:41:52, Info: Lenght of style can't exceed 15
+17.10.2023 22:41:52, Info: Lenght of window title can't exceed 15
+17.10.2023 22:42:10, Info: Coords can't exceed 999
+17.10.2023 22:42:10, Info: Lenght of style can't exceed 15
+17.10.2023 22:42:10, Info: Lenght of window title can't exceed 15
+17.10.2023 22:42:15, Info: Coords can't exceed 999
+17.10.2023 22:42:15, Info: Lenght of style can't exceed 15
+17.10.2023 22:42:15, Info: Lenght of window title can't exceed 15
+17.10.2023 22:42:49, Info: Coords can't exceed 999
+17.10.2023 22:42:49, Info: Lenght of style can't exceed 15
+17.10.2023 22:42:49, Info: Lenght of window title can't exceed 15
+17.10.2023 22:42:52, Info: Coords can't exceed 999
+17.10.2023 22:42:52, Info: Lenght of style can't exceed 15
+17.10.2023 22:42:52, Info: Lenght of window title can't exceed 15
+17.10.2023 22:43:02, Info: Coords can't exceed 999
+17.10.2023 22:43:02, Info: Lenght of style can't exceed 15
+17.10.2023 22:43:02, Info: Lenght of window title can't exceed 15
+17.10.2023 22:43:31, Info: Coords can't exceed 999
+17.10.2023 22:43:31, Info: Lenght of style can't exceed 15
+17.10.2023 22:43:31, Info: Lenght of window title can't exceed 15
+17.10.2023 22:43:35, Info: Coords can't exceed 999
+17.10.2023 22:43:35, Info: Lenght of style can't exceed 15
+17.10.2023 22:43:35, Info: Lenght of window title can't exceed 15
+17.10.2023 22:44:28, Info: Coords can't exceed 999
+17.10.2023 22:44:28, Info: Lenght of style can't exceed 15
+17.10.2023 22:44:28, Info: Lenght of window title can't exceed 15
+17.10.2023 22:46:01, Info: Coords can't exceed 999
+17.10.2023 22:46:01, Info: Lenght of style can't exceed 15
+17.10.2023 22:46:01, Info: Lenght of window title can't exceed 15
+17.10.2023 22:56:28, Info: Coords can't exceed 999
+17.10.2023 22:56:28, Info: Lenght of style can't exceed 15
+17.10.2023 22:56:28, Info: Lenght of window title can't exceed 15
