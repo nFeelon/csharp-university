@@ -1,0 +1,14 @@
+D:\Программирование\2 sem\lab9\lab9\bin\Debug\net7.0\lab9.exe
+D:\Программирование\2 sem\lab9\lab9\bin\Debug\net7.0\lab9.deps.json
+D:\Программирование\2 sem\lab9\lab9\bin\Debug\net7.0\lab9.runtimeconfig.json
+D:\Программирование\2 sem\lab9\lab9\bin\Debug\net7.0\lab9.dll
+D:\Программирование\2 sem\lab9\lab9\bin\Debug\net7.0\lab9.pdb
+D:\Программирование\2 sem\lab9\lab9\obj\Debug\net7.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\2 sem\lab9\lab9\obj\Debug\net7.0\lab9.AssemblyInfoInputs.cache
+D:\Программирование\2 sem\lab9\lab9\obj\Debug\net7.0\lab9.AssemblyInfo.cs
+D:\Программирование\2 sem\lab9\lab9\obj\Debug\net7.0\lab9.csproj.CoreCompileInputs.cache
+D:\Программирование\2 sem\lab9\lab9\obj\Debug\net7.0\lab9.dll
+D:\Программирование\2 sem\lab9\lab9\obj\Debug\net7.0\refint\lab9.dll
+D:\Программирование\2 sem\lab9\lab9\obj\Debug\net7.0\lab9.pdb
+D:\Программирование\2 sem\lab9\lab9\obj\Debug\net7.0\lab9.genruntimeconfig.cache
+D:\Программирование\2 sem\lab9\lab9\obj\Debug\net7.0\ref\lab9.dll
