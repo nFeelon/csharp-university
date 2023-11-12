@@ -1,0 +1,18 @@
+{
+  "AssemblyName": "lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "HasPublicConstructors": true,
+  "PublicMethods": [
+    "MultiplyNumber",
+    "ToString",
+    "GetType",
+    "Equals",
+    "GetHashCode"
+  ],
+  "FieldsAndProperties": [
+    "number"
+  ],
+  "Interfaces": [],
+  "MethodsByParameterType": [
+    "MultiplyNumber"
+  ]
+}
