@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <X>10</X>
+  <Y>20</Y>
+  <Color>red</Color>
+  <Name>Button</Name>
+  <Description>This is a button!</Description>
+  <Width>100</Width>
+  <Height>50</Height>
+  <Text>OK</Text>
+  <Action>Submit</Action>
+</Button>

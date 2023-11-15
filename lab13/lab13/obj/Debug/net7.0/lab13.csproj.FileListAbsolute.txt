@@ -1,0 +1,14 @@
+D:\Программирование\2 sem\lab13\lab13\bin\Debug\net7.0\lab13.exe
+D:\Программирование\2 sem\lab13\lab13\bin\Debug\net7.0\lab13.deps.json
+D:\Программирование\2 sem\lab13\lab13\bin\Debug\net7.0\lab13.runtimeconfig.json
+D:\Программирование\2 sem\lab13\lab13\bin\Debug\net7.0\lab13.dll
+D:\Программирование\2 sem\lab13\lab13\bin\Debug\net7.0\lab13.pdb
+D:\Программирование\2 sem\lab13\lab13\obj\Debug\net7.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\2 sem\lab13\lab13\obj\Debug\net7.0\lab13.AssemblyInfoInputs.cache
+D:\Программирование\2 sem\lab13\lab13\obj\Debug\net7.0\lab13.AssemblyInfo.cs
+D:\Программирование\2 sem\lab13\lab13\obj\Debug\net7.0\lab13.csproj.CoreCompileInputs.cache
+D:\Программирование\2 sem\lab13\lab13\obj\Debug\net7.0\lab13.dll
+D:\Программирование\2 sem\lab13\lab13\obj\Debug\net7.0\refint\lab13.dll
+D:\Программирование\2 sem\lab13\lab13\obj\Debug\net7.0\lab13.pdb
+D:\Программирование\2 sem\lab13\lab13\obj\Debug\net7.0\lab13.genruntimeconfig.cache
+D:\Программирование\2 sem\lab13\lab13\obj\Debug\net7.0\ref\lab13.dll

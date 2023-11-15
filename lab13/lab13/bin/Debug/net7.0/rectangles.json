@@ -1,0 +1,30 @@
+[
+  {
+    "Width": 10,
+    "Height": 100,
+    "X": 15,
+    "Y": 30,
+    "Color": "red"
+  },
+  {
+    "Width": 60,
+    "Height": 100,
+    "X": 10,
+    "Y": 20,
+    "Color": "red"
+  },
+  {
+    "Width": 75,
+    "Height": 150,
+    "X": 5,
+    "Y": 30,
+    "Color": "red"
+  },
+  {
+    "Width": 50,
+    "Height": 200,
+    "X": 6,
+    "Y": 11,
+    "Color": "red"
+  }
+]
